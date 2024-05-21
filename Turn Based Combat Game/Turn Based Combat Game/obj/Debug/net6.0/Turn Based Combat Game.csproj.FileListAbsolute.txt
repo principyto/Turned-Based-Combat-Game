@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\bin\Debug\net6.0\Turn Based Combat Game.exe
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\bin\Debug\net6.0\Turn Based Combat Game.deps.json
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\bin\Debug\net6.0\Turn Based Combat Game.runtimeconfig.json
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\bin\Debug\net6.0\Turn Based Combat Game.dll
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\bin\Debug\net6.0\Turn Based Combat Game.pdb
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\obj\Debug\net6.0\Turn Based Combat Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\obj\Debug\net6.0\Turn Based Combat Game.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\obj\Debug\net6.0\Turn Based Combat Game.AssemblyInfo.cs
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\obj\Debug\net6.0\Turn Based Combat Game.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\obj\Debug\net6.0\Turn Based Combat Game.dll
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\obj\Debug\net6.0\refint\Turn Based Combat Game.dll
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\obj\Debug\net6.0\Turn Based Combat Game.pdb
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\obj\Debug\net6.0\Turn Based Combat Game.genruntimeconfig.cache
+C:\Users\danie\source\repos\Turn Based Combat Game\Turn Based Combat Game\obj\Debug\net6.0\ref\Turn Based Combat Game.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Turn Based Combat Game/1.0.0": {
+        "runtime": {
+          "Turn Based Combat Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Turn Based Combat Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
